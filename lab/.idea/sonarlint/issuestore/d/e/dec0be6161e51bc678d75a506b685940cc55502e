@@ -1,0 +1,19 @@
+
+w
+java:S1104"\Make iterationCounter a static final constant or non-public and provide accessors if needed.(ÂµğÛşÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(É ›ùÿÿÿÿ
+b
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(¨á±ûÿÿÿÿ
+b
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(‹©ÈŠşÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "home".(ß•ñõ
+S
+java:S1854"8Remove this useless assignment to local variable "bump".(´“¾ûúÿÿÿÿ
+4
+java:S2119"Save and re-use this "Random".(¡Å”¦
+D
+java:S1481")Remove this unused "bump" local variable.(´“¾ûúÿÿÿÿ
+?
+java:S1481")Remove this unused "home" local variable.(ß•ñõ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ê´åÑ

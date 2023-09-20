@@ -1,0 +1,101 @@
+
+a	java:S112ß"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+a	java:S112ö"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+v
+java:S2293k"YReplace the type specification in this constructor call with the diamond operator ("<>").(›£šŸ8ƒ†Ş“©1
+{
+java:S2293m"YReplace the type specification in this constructor call with the diamond operator ("<>").(åå‚úşÿÿÿÿ8¿ëŞ“©1
+f	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êèòØ
+f	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êèòØ
+l
+java:S1104"QMake world a static final constant or non-public and provide accessors if needed.(÷”Á™ùÿÿÿÿ
+r
+java:S1104"WMake initialized a static final constant or non-public and provide accessors if needed.(Ë©¥üÿÿÿÿ
+w
+java:S1104"\Make agent_x_position a static final constant or non-public and provide accessors if needed.(°¶°Šşÿÿÿÿ
+r
+java:S1104"\Make agent_y_position a static final constant or non-public and provide accessors if needed.(±á¸Ö
+x
+java:S1104"]Make agent_last_action a static final constant or non-public and provide accessors if needed.(§÷ğÕùÿÿÿÿ
+q
+java:S1104$"[Make agent_direction a static final constant or non-public and provide accessors if needed.(½„µ„
+r
+java:S1104h"\Make iterationCounter a static final constant or non-public and provide accessors if needed.(ú…Î“
+g
+java:S1104i"QMake state a static final constant or non-public and provide accessors if needed.(Ù¬êë
+@
+java:S54113"*Use the primitive boolean expression here.(€àèš
+F
+java:S5411¯"*Use the primitive boolean expression here.(èÖğáüÿÿÿÿ
+A
+java:S5411Â"*Use the primitive boolean expression here.(®Áï€
+F
+java:S5411Ì"*Use the primitive boolean expression here.(ï£Ãùÿÿÿÿ
+A
+java:S5411Ø"*Use the primitive boolean expression here.(®Áï€
+F
+java:S5411ê"*Use the primitive boolean expression here.(çÎáúÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(É ›ùÿÿÿÿ
+s	java:S116"RRename this field "UNKNOWN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºşĞ¸ÿÿÿÿÿ8õá½ÿ¨1
+d	java:S116"ORename this field "WALL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÿ£ı
+q	java:S116"PRename this field "CLEAR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÈú¹şÿÿÿÿ8öá½ÿ¨1
+p	java:S116"ORename this field "DIRT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¢´şıÿÿÿÿ8úá½ÿ¨1
+j	java:S116"ORename this field "HOME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù‚X8ûá½ÿ¨1
+r	java:S116"VRename this field "ACTION_NONE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ùÜ8ıá½ÿ¨1
+	java:S116"^Rename this field "ACTION_MOVE_FORWARD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À’‹°şÿÿÿÿ8şá½ÿ¨1
+}	java:S116"\Rename this field "ACTION_TURN_RIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÃøéúÿÿÿÿ8ÿá½ÿ¨1
+w	java:S116"[Rename this field "ACTION_TURN_LEFT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ§´Ù8€â½ÿ¨1
+w	java:S116"VRename this field "ACTION_SUCK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›É·ùÿÿÿÿ8â½ÿ¨1
+u	java:S116"[Rename this field "agent_x_position" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°¶°Šşÿÿÿÿ
+w	java:S116"[Rename this field "agent_y_position" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±á¸Ö8‚â½ÿ¨1
+}	java:S116"\Rename this field "agent_last_action" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§÷ğÕùÿÿÿÿ8ƒâ½ÿ¨1
+v	java:S116$"ZRename this field "agent_direction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½„µ„8…â½ÿ¨1
+C
+java:S1170"!Make this final field static too.(ºşĞ¸ÿÿÿÿÿ8†â½ÿ¨1
+7
+java:S1170"!Make this final field static too.(üÿ£ı
+C
+java:S1170"!Make this final field static too.(İÈú¹şÿÿÿÿ8Šâ½ÿ¨1
+C
+java:S1170"!Make this final field static too.(š¢´şıÿÿÿÿ8‹â½ÿ¨1
+=
+java:S1170"!Make this final field static too.(ù‚X8‹â½ÿ¨1
+>
+java:S1170"!Make this final field static too.(·ùÜ8Œâ½ÿ¨1
+C
+java:S1170"!Make this final field static too.(À’‹°şÿÿÿÿ8Œâ½ÿ¨1
+C
+java:S1170"!Make this final field static too.(İÃøéúÿÿÿÿ8â½ÿ¨1
+>
+java:S1170"!Make this final field static too.(Ñ§´Ù8â½ÿ¨1
+C
+java:S1170"!Make this final field static too.(›É·ùÿÿÿÿ8â½ÿ¨1
+>	java:S1315""Add a default case to this switch.(­´é·8¢â½ÿ¨1
+n
+java:S3776L"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÅØé8¤â½ÿ¨1
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(•ŒÀÎ
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(»€’À
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(å‡ëÇøÿÿÿÿ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(÷Ôó›ùÿÿÿÿ
+U	java:S106["9Replace this use of System.out or System.err by a logger.(Õ±°Â8¬â½ÿ¨1
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8­â½ÿ¨1
+|	java:S116e"[Rename this field "random_generator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ˜á¨şÿÿÿÿ8®â½ÿ¨1
+f
+java:S1149k"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(›£šŸ
+r
+java:S1149m"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(åå‚úşÿÿÿÿ8¶â½ÿ¨1
+u
+java:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(§¥šËÿÿÿÿÿ8´óæ“©1
+V
+java:S1854ª"8Remove this useless assignment to local variable "home".(ß•ñõ8¶óæ“©1
+V	java:S106”"9Replace this use of System.out or System.err by a logger.(Ş†8Îâ½ÿ¨1
+[	java:S106œ"9Replace this use of System.out or System.err by a logger.(ç–¹üÿÿÿÿ8Ğâ½ÿ¨1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(Ä ‹°øÿÿÿÿ8»óæ“©1
+V	java:S106"9Replace this use of System.out or System.err by a logger.(–Ü¢è8¼óæ“©1
+G
+java:S1481ª")Remove this unused "home" local variable.(ß•ñõ8¿óæ“©1
+V	java:S106«"9Replace this use of System.out or System.err by a logger.(ê´åÑ8¿óæ“©1
+?	java:S131³""Add a default case to this switch.(‰¤¡¢8Áóæ“©1
+[	java:S106Ú"9Replace this use of System.out or System.err by a logger.(‘‚µÿÿÿÿÿ8Çóæ“©1
+s
+java:S1206¤"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ8Şóæ“©1

@@ -104,13 +104,11 @@ class MyAgentProgram implements AgentProgram {
 	public int iterationCounter = 4000;
 	public MyAgentState state = new MyAgentState();
 
-	private Stack<Position> path = new Stack<>();
+	private Stack<Position> path = new Stack<Position>();
 
-	private Stack<Position> homePath = new Stack<>();
+	private Stack<Position> homePath = new Stack<Position>();
 	private boolean isHomeFounded = false;
-
 	private int consecutiveTurnRight = 0;
-
 	private boolean returnHomeMode = false;
 
 
